@@ -16,8 +16,10 @@ ul li a {
 }
 div img{
     display: block;
-    width: 100%;
+    width: 70%;
 }
+
+
 
 
 .flex-container {
@@ -103,7 +105,7 @@ header .menu{
 }
 
 #quem-somos img{
-    min-width:420px;
+    min-width:450px;
 }
 
 .container-externo {
@@ -113,20 +115,22 @@ header .menu{
 
 #servicos {
     flex-direction: column;
-    padding-top: 50px;
+    padding-top: 60px;
     padding-bottom: 100px;
 }
 
 #servicos h2{
     color: #fff;
     font-size: 32px;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 .list-servicos {
     display: flex;
     justify-content: space-between;
+    
 }
+
 
 .list-servicos .item-servico {
     text-align: center;
